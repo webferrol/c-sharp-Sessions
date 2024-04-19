@@ -19,3 +19,9 @@ Aunque podemos trabajar con múltiples **editores** para programar en <abbr titl
 - [Promesas](async-await-then.md)
 - [jest](jest.md)
 - [Ejercicios](ejercicios.md)
+
+## Integración con Unity
+
+### Normas
+
+1. Los **scripts** nunca funcionan a no ser que no se encuentren asociados a la lógica de un **GameObject**
