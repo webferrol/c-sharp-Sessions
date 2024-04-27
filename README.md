@@ -1,6 +1,20 @@
 
 # <abbr title="C Sharp">C#</abbr>
 
+[Fuente](https://www.youtube.com/watch?v=6EBNIgkrU74&list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B)
+
+- Lenguaje líder en la plataforma de Windows
+    - Parte principal de sus herramientas de desarrollo: *Visual Studio .net*
+    
+    Hablamos de un **framework** para el desarrollo de software que pretende fusionar todas las herramientas de **Microsofot** para competir con otras plataformas (Java, PHP ...).
+
+    - POO
+        - Clases, objetos, estructuras, tipos numerados, Arrays, herencias, interfaces, excepciones...
+    - Características avanzadas
+        - Propiedades, indexaciones, tipos genéricos, colecciones, sobrecargas, trabajo con archivos, serialización...
+
+- [Index TIOBE](https://www.tiobe.com/tiobe-index/)
+
 ## Editor Recomentado
 
 Aunque podemos trabajar con múltiples **editores** para programar en <abbr title="C Sharp">C#</abbr> como **Visual Studio Code** remomendamos el  <abbr title="integrated development environment ">IDE</abbr> [Visual Studio Community](https://visualstudio.microsoft.com/es/vs/community/) pues a a larga nos ofrece m
